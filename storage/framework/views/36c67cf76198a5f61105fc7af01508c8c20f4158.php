@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp3\htdocs\MentalHealthApp\mental_health\resources\views/onboardingstep1.blade.php ENDPATH**/ ?>
