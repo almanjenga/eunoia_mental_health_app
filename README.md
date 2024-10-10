@@ -24,6 +24,6 @@ Eunoia is a mental health support application designed to promote well-being and
 
 ## Technologies Used
 - **Backend**: Laravel
-- **Frontend**: Vue.js, css
+- **Frontend**: Vue.js, css, php
 - **Database**: MySQL
 - **Others**: Git, Docker, and email functionality for notifications.
